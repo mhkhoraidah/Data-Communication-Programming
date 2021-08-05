@@ -1,0 +1,7 @@
+﻿  PktDef.cpp
+z:\mega\seneca@york\s4\btn415saa - data communications programming\termproject\ms3\msthree 8\msthree\pktdef.cpp(103): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  MySocket.cpp
+  Client.cpp
+  Generating Code...
+  msThree.vcxproj -> Z:\MEGA\Seneca@York\S4\BTN415SAA - Data Communications Programming\termProject\ms3\msThree 8\Debug\msThree.exe
+  msThree.vcxproj -> Z:\MEGA\Seneca@York\S4\BTN415SAA - Data Communications Programming\termProject\ms3\msThree 8\Debug\msThree.pdb (Full PDB)
